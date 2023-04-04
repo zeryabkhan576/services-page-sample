@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="73px" viewBox="0 0 73 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>4A734E91-DEC0-431D-B2D7-4B1133115F54</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="z" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="22-1-Waiting-for-bids-" transform="translate(-648.000000, -193.000000)" fill-rule="nonzero">
+            <g id="1" transform="translate(350.000000, 170.000000)">
+                <g id="clock" transform="translate(334.500000, 59.500000) scale(-1, 1) translate(-334.500000, -59.500000) translate(298.000000, 23.000000)">
+                    <circle id="Oval" fill="#00A3E7" cx="36.5" cy="36.5" r="36.5"></circle>
+                    <g id="Group-2" transform="translate(6.000000, 6.000000)">
+                        <circle id="Oval" fill="#FCFCFD" cx="31" cy="31" r="31"></circle>
+                        <g id="Group" transform="translate(16.762712, 9.457627)" fill="#00A3E7">
+                            <path d="M14.3658278,24.6602314 C13.198245,24.6602314 12.2641329,23.5198845 12.2641329,22.094521 L12.2641329,2.6141799 C12.2641329,1.18881643 13.198245,0.0484695969 14.3658278,0.0484695969 C15.5334106,0.0484695969 16.4675227,1.18881643 16.4675227,2.6141799 L16.4675227,22.094521 C16.4675227,23.5198845 15.5334106,24.6602314 14.3658278,24.6602314 Z" id="Shape"></path>
+                            <path d="M19.0325428,25.5883772 L19.0325428,25.9354753 C19.0325428,27.0152097 18.0867357,27.8636212 16.8830504,27.8636212 L2.26678099,27.8636212 C1.06309567,27.8636212 0.117288588,27.0152097 0.117288588,25.9354753 L0.117288588,25.5883772 C0.117288588,24.5086428 1.06309567,23.6602314 2.26678099,23.6602314 L16.8830504,23.6602314 C18.0867357,23.6603451 19.0325428,24.5086428 19.0325428,25.5883772 Z" id="Shape" transform="translate(9.574916, 25.761926) rotate(-31.000000) translate(-9.574916, -25.761926) "></path>
+                        </g>
+                        <g id="Group" transform="translate(2.101695, 2.101695)">
+                            <rect id="Rectangle-path" fill="#646B79" x="28.2387752" y="0.0926439824" width="2.46284763" height="3.36749759"></rect>
+                            <rect id="Rectangle-path" fill="#646B79" x="28.2387752" y="55.4298582" width="2.46284763" height="3.36749759"></rect>
+                            <rect id="Rectangle-path" fill="#646B79" x="55.4298582" y="28.2387752" width="3.36749759" height="2.46284763"></rect>
+                            <rect id="Rectangle-path" fill="#646B79" x="0.0926439824" y="28.2387752" width="3.36749759" height="2.46284763"></rect>
+                            <circle id="Oval" fill="#FF9000" cx="28.3728814" cy="29.4237288" r="5.25423729"></circle>
+                            <circle id="Oval" fill="#FBFBFC" cx="28.3728814" cy="29.4237288" r="2.10169492"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
